@@ -1,4 +1,4 @@
-markdown
+
 # English Tutor (Free)
 
 A friendly English tutor you can talk to. It runs fully free on your own computer, using a local AI model through Ollama. You can type or speak, and the tutor replies with a natural voice.
